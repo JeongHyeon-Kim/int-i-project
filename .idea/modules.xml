@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntiAssistant.iml" filepath="$PROJECT_DIR$/IntiAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inti-Assistant.iml" filepath="$PROJECT_DIR$/Inti-Assistant.iml" />
+      <module fileurl="file://C:\Users\PureBlack\AndroidStudioProjects\Inti-Assistant\IntiAssistant.iml" filepath="C:\Users\PureBlack\AndroidStudioProjects\Inti-Assistant\IntiAssistant.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\PureBlack\AndroidStudioProjects\Inti-Assistant\app\app.iml" filepath="C:\Users\PureBlack\AndroidStudioProjects\Inti-Assistant\app\app.iml" />
     </modules>
   </component>
 </project>
